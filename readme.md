@@ -1,6 +1,6 @@
 # AI Railway Information System
 <p align="center">
-  <img width="70%" height="1024" alt="AI Railway System" src="https://github.com/user-attachments/assets/8e5a0dda-decc-4976-98f0-9b6d69d357bc" />
+  <img width="100%" height="1024" alt="AI Railway System" src="https://github.com/user-attachments/assets/8e5a0dda-decc-4976-98f0-9b6d69d357bc" />
 </p>
 The AI Railway Information System leverages an intelligent conversational interface, allowing users to query the following:
 
