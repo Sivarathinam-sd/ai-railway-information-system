@@ -24,7 +24,7 @@ All information is retrieved from the official dataset: [Indian Express Dataset]
 ## Installation
 
 1. Clone the repository:<br>
-`git clone https://github.com/Sivarathinam-sd/ai-railway-information-system.git`<br>
+`git clone https://github.com/Sivarathinam-sd/Ai-Railway-Information-System.git`<br>
 `cd ai-railway-information-system`
 
 2. Create a virtual environment and activate it:<br>
